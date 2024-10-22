@@ -44,3 +44,29 @@ The projects are divided into two main parts:
 ### Example Output
 
 - For the basic observer pattern:
+- First state change: 15 Hex String: F Binary String: 1111 Second state change: 10 Hex String: A Binary String: 1010
+
+
+Verify
+
+Open In Editor
+Edit
+Copy code
+
+- For the event management system:
+Save to log /path/to/log/file.txt: Someone has performed open operation with the following file: test.txt Email to admin@example.com: Someone has performed save operation with the following file: test.txt Sending SMS to 1234567890: Someone has performed save operation with the following file: test.txt
+
+
+Verify
+
+Open In Editor
+Edit
+Copy code
+
+## Contributing
+
+Feel free to submit issues or pull requests if you would like to contribute to this project.
+
+## License
+
+This project is open-source and available under the MIT License.
